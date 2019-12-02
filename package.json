@@ -1,5 +1,5 @@
 {
-    "name": "jsb_template",
+    "name": "ajs_synt-constructions_try-catch",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "GIT"
+        "url": "https://github.com/KateGaw/AJS_synt-constructions_try-catch"
     },
     "author": "kate_gaw",
     "license": "ISC",
