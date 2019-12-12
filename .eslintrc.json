@@ -16,6 +16,7 @@
         "sourceType": "module"
     },
     "rules": {
-        "no-restricted-syntax": [ "error", "LabeledStatement", "WithStatement" ]
+        "no-restricted-syntax": [ "error", "LabeledStatement", "WithStatement" ],
+        "eqeqeq": 0
     }
 }
